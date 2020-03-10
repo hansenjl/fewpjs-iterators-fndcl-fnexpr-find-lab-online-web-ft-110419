@@ -9,5 +9,4 @@ function superbowlWin(record) {
     return s.result === "W" 
   })
   return winner.year
-  
 }
